@@ -1,0 +1,219 @@
+
+
+
+
+.first{
+    display: flex;
+    flex-direction:row;
+    margin-left: 200px;
+}
+.main{
+    width: 600px;
+    height: 700px;
+    border: 0px;
+    margin-top: 240px;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 0px 6px 6px rgba(128, 128, 128, 0.363);
+}
+.main2{
+    width: 600px;
+    height: 700px;
+    border: 0px;
+    margin-left: 370px;
+    box-shadow: 6px 6px 6px 6px gray;
+
+}
+.row{
+    display: flex;
+    margin-top: 15px;
+    margin-top: 20px;
+}
+.logo{
+    width: 80px;
+    margin-left: 10px;
+}
+.span1{
+    margin-left: 300px;
+    font-size: 10px;
+}
+.span2{
+    font-size: 10px;
+    margin-left: 50px;
+}
+.span3{
+    font-size: 10px;
+    margin-left: 50px;
+}
+
+
+
+.second{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.aa{
+    width: 320px;
+    border: 0px;
+    height: 240px;
+}
+.back{
+    width: 250px;
+    height: 240px;
+}
+
+.illustration1{
+    width: 250px;
+}
+.all{
+    font-size: 24px;
+    margin-bottom: 9px;
+}
+.test{
+    font-size: 11px;
+}
+.get{
+    width: 120px;
+    background-color: hsl(224, 93%, 58%);
+    border: 0px;
+    height: 20px;
+    color: white;
+}
+.span{
+    margin-top: 7px;
+}
+.ff{
+    margin-top: 8px;
+}
+
+.stay{
+    background-image: url("/images/bg-curve-desktop.svg");
+    height: 390px;
+    border: solid rgba(255, 255, 255, 0);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 4400px;
+}
+.tive{
+    margin-top: 110px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+}
+.product{
+    width: 350px;
+}
+.illustration2{
+    width: 230px;
+}
+.you{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.never{
+    font-size: 12px;
+    margin-top: 7px;
+}
+.see{
+    font-size: 12px;
+    color: hsl(170, 45%, 43%);
+    text-decoration: underline;
+    margin-top: 7px;
+    align-items: center;
+}
+.svg{
+    width: 12px;
+    text-decoration: underline;
+}
+.box{
+    width: 200px;
+    background-color: white;
+    margin-top: 10px;
+    padding: 10px;
+    height: 120px;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+.flo{
+    font-size: 12px;
+}
+.doit{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+.wait{
+    border: 0px;
+    width: 25px;
+    height: 25px;
+    border-radius: 20px;
+    background-image: url("/images/avatar-testimonial.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.kyle{
+    font-size: 10px;
+    margin-left: 7px;
+}
+
+
+.stay2{
+    background-image: url("/images/bg-curve-desktop.svg");
+    height: 390px;
+    border: solid rgba(0, 0, 0, 0);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 4800px;   
+}
+.today{
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: hsl(238, 22%, 44%);
+    color: hsl(0, 0%, 75%);
+}
+.early{
+    width: 350px;
+    font-size: 8px;
+}
+.butt1{
+    width: 240px;
+    height: 27px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: white;
+    text-align: left;
+    font-size: 8px;
+}
+.butt2{
+    margin-top: 7px;
+    height: 25px;
+    background-color: hsl(224, 93%, 58%);
+    border: 0px;   
+    color: white;
+    width: 130px;
+    font-size: 10px;
+}
+.ten{
+    background-color: hsl(243, 87%, 12%);
+    height: 155px;
+    color:hsl(0, 0%, 75%);
+}
+.sea{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    font-size: 10px;
+    padding-top: 50px;
+}
+.phone{
+    margin-left: 50px;
+}
+.phone1{
+    margin-left: 100px;
+}
+.exam{
+    margin-top: 10px;
+}
